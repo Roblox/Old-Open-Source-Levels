@@ -3,3 +3,5 @@ This project is a collection of games that have been uncopylocked. The repositor
 Anyone may suggest the addition of a game to this collection. This can be done on GitHub, by sending a pull request or filing an issue on the repository associated with this collection. This repository is owned by the RobloxLabs organization.
 
 This collection does not include games that have been stolen, were neither created nor sponsored by members of the ROBLOX staff and are of a low quality. One may legitimately use material from any of these games in any project.
+
+A catalog of the games is available in the file named catalog.md.
