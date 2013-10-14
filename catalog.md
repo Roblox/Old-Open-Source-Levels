@@ -34,7 +34,7 @@ This is the catalog of the games contained in this game collection.
 		<td>September 2007</td>
 	</tr>
 	<tr>
-		<td>PilotLuke tingc222 and Yahoo</td>
+		<td>PilotLuke, tingc222 and Yahoo</td>
 		<td><a href="http://www.roblox.com/Chaos-Canyon-place?id=14403">Chaos Canyon</a></td>
 		<td>October 2007</td>
 	</tr>
