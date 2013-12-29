@@ -88,10 +88,25 @@ This is the catalog of the games contained in this game collection.
 		<td><a href="http://www.roblox.com/Wishing-Castle-place?id=513688">Wishing Castle</a></td>
 		<td>March 2008</td>
 	</tr>
+  <tr>
+		<td>Jardicel</td>
+		<td><a href="http://www.roblox.com/Eagles-Castle-Un-copy-lock-abandoned-place?id=4248812">Eagles Castle</a></td>
+		<td>September 2008</td>
+	</tr>
+  <tr>
+		<td>Jardicel</td>
+		<td><a href="http://www.roblox.com/Pirates-Heaven-abandoned-un-copy-lock-place?id=6122389">Pirates Heaven</a></td>
+		<td>December 2008</td>
+	</tr>
 	<tr>
 		<td>ROBLOX</td>
 		<td><a href="http://www.roblox.com/Rocket-Arena-place?id=25415">Rocket Arena</a></td>
 		<td>January 2009</td>
+	</tr>
+  <tr>
+		<td>Jardicel</td>
+		<td><a href="http://www.roblox.com/Lost-Thoughts-Fortress-Un-copylocked-place?id=8148106">Lost Thoughts Fortress</a></td>
+		<td>February 2009</td>
 	</tr>
 	<tr>
 		<td>Community</td>
